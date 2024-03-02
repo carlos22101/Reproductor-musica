@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #212121;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: azure;
+    font-size: 132%;
+}
+
+
+button{
+    text-align: center;
+    width: 12%;
+    height:10%;
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 149, 0, 0.757);
+}
